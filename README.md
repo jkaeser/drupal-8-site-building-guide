@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+Outdated – newer version in GitBooks:
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+[https://www.gitbook.com/book/zivtech/zivtech-drupal-8-site-building/details](https://www.gitbook.com/book/zivtech/zivtech-drupal-8-site-building/details)
